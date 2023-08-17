@@ -9,9 +9,16 @@ import EducationList from '../../components/education/EducationList'
 import SkillList from '../../components/skill/SkillList'
 import Summary from '../../components/summary/Summary'
 import Pagination from '../../components/pagination/Pagination'
+import Seo from '../../components/seo/Seo'
+
 const Profile = () => {
   return (
     <>
+    <Seo
+    title="Profile - Google Search"
+    description="Experienced Front End Developer crafting responsive web solutions. Specializing in HTML, CSS, JavaScript. Committed to creating visually appealing and user-friendly websites."
+    keywords="Front End Developer, HTML5, CSS3, JavaScript, Responsive Design, User Experience (UX), Web Design, Mobile-Friendly Design"
+    />
       <Header />
       <section>
         <div className='container'>
