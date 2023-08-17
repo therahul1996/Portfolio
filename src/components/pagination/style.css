@@ -1,0 +1,55 @@
+.pagination-group{
+    margin: 0px auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.pagination-group li a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration-color: #4285f4;
+}
+.pagination-group li .number{
+    font-size: 13px;
+    font-weight: 500;
+    color: #4285f4;
+}
+.pagination-group li:nth-child(2) a{
+    text-decoration-color: #000;
+}
+.pagination-group li:nth-child(2) a .number{
+    color: #000;
+}
+.pagination-group li:nth-child(1) a .icon{
+    background-position: -24px 0;
+    background-size: 167px;
+    width: 28px;
+    height: 40px;
+    display: block;
+    overflow: hidden;
+}
+.pagination-group li:nth-child(2) a .icon{
+    background-position: -53px 0;
+    background-size: 167px;
+    width: 20px;
+    height: 40px;
+    display: block;
+    overflow: hidden;
+}
+.pagination-group li a .icon{
+    background-position: -74px 0;
+    background-size: 167px;
+    width: 20px;
+    height: 40px;
+    display: block;
+    overflow: hidden;
+}
+.pagination-group li:nth-child(12) a .icon{
+    background-position: -96px 0;
+    background-size: 167px;
+    width: 71px;
+    height: 40px;
+    display: block;
+    overflow: hidden;
+}

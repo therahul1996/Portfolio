@@ -1,0 +1,61 @@
+.content-box{
+    margin-bottom: 45px;
+}
+.content-head{
+    display: flex;
+    align-items: center;
+}
+.ch-icon{
+    width: 36px;
+    height: 36px;
+    background-color: #eeeeee;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+.ch-icon img{
+    width: 20px;
+}
+.ch-text{
+    width: calc(100% - 51px);
+}
+.ch-text label{
+    color: #202124;
+    font-size: 14px;
+    display: block;
+    line-height: 20px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+.ch-text span{
+    color: #4d5156;
+    font-style: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 12px;
+    line-height: 18px;
+}
+.main-head{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 18px;
+    color: #1a0dab;
+    margin: 0;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: block;
+}
+.main-head:hover, .main-head:focus {
+    color: #681da8;
+}
+.desc{
+    margin: 0;
+    font-size: 14px;
+    color: #414141;
+}
+.desc span{
+    font-weight: 600;
+}

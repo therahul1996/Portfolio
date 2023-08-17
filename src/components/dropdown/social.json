@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "iconurl": "/images/social/linkedin.svg",
+      "title": "Linkedin",
+      "urlLink": "https://www.linkedin.com/in/rahul-sahu-8b5975178/"
+    },
+    {
+      "id": 2,
+      "iconurl": "/images/social/github.svg",
+      "title": "Github",
+      "urlLink": "https://github.com/therahul1996"
+    },
+    {
+      "id": 3,
+      "iconurl": "/images/social/instagram.svg",
+      "title": "Instagram",
+      "urlLink": "https://www.instagram.com/the_rahulshah/?hl=en"
+    },
+    {
+        "id": 4,
+        "iconurl": "/images/social/figma.svg",
+        "title": "Figma",
+        "urlLink": "https://www.figma.com/files/user/1070032877618790612?fuid=1070032877618790612"
+      }
+  ]

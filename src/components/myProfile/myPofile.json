@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "profileImg": "/images/profile-1.jpeg",
+    "name": "Rahul Kumar Sahu",
+    "designation": "Front End Developer",
+    "logo": "/images/logo.png",
+    "email": "rs9097737511@gmail.com",
+    "phone": "9097737511",
+    "address": "At Bagodar, Jharkhand, India",
+    "available": "Mon to Sat",
+    "about": "Hello there! I'm Rahul Kumar Sahu, a passionate React Developer with a knack for crafting dynamic and engaging web experiences. With a solid background in front-end development and a love for building user-centric applications, I thrive in the ever-evolving world of web technologies. Let me take you on a journey through my coding adventures.",
+    "social": [
+        {
+          "id": 1,
+          "iconurl": "/images/social/linkedin.svg",
+          "title": "Linkedin",
+          "urlLink": "https://www.linkedin.com/in/rahul-sahu-8b5975178/"
+        },
+        {
+          "id": 2,
+          "iconurl": "/images/social/github.svg",
+          "title": "Github",
+          "urlLink": "https://github.com/therahul1996"
+        },
+        {
+          "id": 3,
+          "iconurl": "/images/social/instagram.svg",
+          "title": "Instagram",
+          "urlLink": "https://www.instagram.com/the_rahulshah/?hl=en"
+        },
+        {
+            "id": 4,
+            "iconurl": "/images/social/figma.svg",
+            "title": "Figma",
+            "urlLink": "https://www.figma.com/files/user/1070032877618790612?fuid=1070032877618790612"
+          }
+      ]
+}

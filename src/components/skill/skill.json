@@ -1,0 +1,180 @@
+{
+  "id": 1,
+  "name": "Skills",
+  "description": "Experienced Front End Developer skilled in crafting visually appealing and responsive web interfaces. Proficient in HTML5, CSS3, and JavaScript, with a keen eye for design and user experience. Strong expertise in modern front-end frameworks such as React. Adept at translating design mockups and wireframes into functional, cross-browser compatible websites. Familiar with version control systems like Git and collaborative development using Agile methodologies. Passionate about optimizing website performance and staying updated with the latest industry trends. Committed to delivering engaging and accessible web solutions that enhance user engagement and drive business objectives.",
+  "skillHeading": [
+    {
+      "id": 1,
+      "heading": "Language",
+      "list": [
+        {
+          "id": 1,
+          "name": "HTML5"
+        },
+        {
+          "id": 2,
+          "name": "CSS3"
+        },
+        {
+          "id": 3,
+          "name": "Ionic"
+        },
+        {
+          "id": 4,
+          "name": "SCSS"
+        },
+        {
+          "id": 5,
+          "name": "JavaScript"
+        },
+        {
+          "id": 6,
+          "name": "jQuery"
+        },
+        {
+          "id": 7,
+          "name": "PHP"
+        },
+        {
+          "id": 8,
+          "name": "Typescript"
+        },
+        {
+          "id": 9,
+          "name": "GIT"
+        }
+        
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Software",
+      "list": [
+        {
+          "id": 1,
+          "name": "Figma"
+        },
+        {
+          "id": 2,
+          "name": "Adobe Photoshop"
+        },
+        {
+          "id": 3,
+          "name": "Adobe illustrator"
+        },
+        {
+          "id": 4,
+          "name": "Android Studio"
+        },
+        {
+          "id": 5,
+          "name": "JDK"
+        },
+        {
+          "id": 6,
+          "name": "Node.js"
+        },
+        {
+          "id": 7,
+          "name": "Canva"
+        }
+        
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "Concepts",
+      "list": [
+        {
+          "id": 1,
+          "name": "Created design on HTML CSS and JavaScript"
+        },
+        {
+          "id": 2,
+          "name": "implement design"
+        },
+        {
+          "id": 3,
+          "name": "working on MVC"
+        }
+        
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "Technologies",
+      "list": [
+        {
+          "id": 1,
+          "name": "Website design"
+        },
+        {
+          "id": 2,
+          "name": "App design"
+        }
+        
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "Database",
+      "list": [
+        {
+          "id": 1,
+          "name": "SQL"
+        },
+        {
+          "id": 2,
+          "name": "MySQL"
+        }
+        
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "Framework",
+      "list": [
+        {
+          "id": 1,
+          "name": "CodeIgniter"
+        },
+        {
+          "id": 2,
+          "name": "Laravel"
+        },
+        {
+          "id": 3,
+          "name": "Ionic"
+        },
+        {
+          "id": 4,
+          "name": "React"
+        },
+        {
+          "id": 5,
+          "name": "Angular JS"
+        }
+        
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "CSS Framework",
+      "list": [
+        {
+          "id": 1,
+          "name": "Bootstrap"
+        },
+        {
+          "id": 2,
+          "name": "Tailwind"
+        },
+        {
+          "id": 3,
+          "name": "Material UI"
+        }
+        
+      ]
+    }
+  ]
+}

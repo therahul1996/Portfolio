@@ -1,0 +1,125 @@
+/* Searchbar index */
+.first-search-box{
+    position: relative;
+    margin: 15px auto;
+}
+.first-search-bar{
+    position: relative;
+    /* margin: 20px auto;
+    border-radius: 22px; */
+ }
+.first-search-bar .search-input{
+    display: flex;
+    min-height: 40px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
+    max-width: 584px;
+    padding: 3px 40px;
+    align-items: center;
+}
+.first-search-bar .search-input:focus{
+    outline: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.first-search-bar .search-input:hover{
+    border-color: #dfe1e5;
+    outline: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.first-search-bar .search-icon{
+    width: 20px;
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+.first-search-bar .audio-icon{
+    width: 24px;
+    position: absolute;
+    top: 12px;
+    right: 16px;
+}
+@media(max-width: 767px) {
+    .first-search-bar{
+        width: 322px;
+        margin: 15px auto;
+    }
+     .first-search-bar .search-input {
+        width: 240px;
+    }
+}
+/* Searchbar */
+.search-bar{
+    position: relative;
+    /* margin: 20px auto;
+    border-radius: 22px; */
+ }
+.search-bar .search-input{
+    display: flex;
+    min-height: 28px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
+    max-width: 584px;
+    padding: 3px 40px;
+    align-items: center;
+    font-size: 13px;
+}
+.search-bar .search-input:focus{
+    outline: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.search-bar .search-input:hover{
+    border-color: #dfe1e5;
+    outline: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.search-bar .search-icon{
+    width: 18px;
+    position: absolute;
+    top: 10px;
+    left: 13px;
+}
+.search-bar .audio-icon{
+    width: 18px;
+    position: absolute;
+    top: 9px;
+    right: 13px;
+}
+@media(max-width: 991px) {
+    .search-bar .search-input {
+        width: 240px;
+    }
+    
+}
+@media(max-width: 767px) {
+    .search-bar{
+        width: auto;
+        margin: 15px 0;
+        position: absolute;
+        left: 0;
+        right: 0;
+        background-color: #ffffff;
+        padding: 10px 15px;
+    }
+     .search-bar .search-input {
+        width: auto;
+    }
+    .search-bar .search-icon {
+        top: 20px;
+        left: 25px;
+    }
+    .search-bar .audio-icon {
+        top: 18px;
+        right: 25px;
+    }
+    .navbar-height {
+        height: 100px;
+    }
+}

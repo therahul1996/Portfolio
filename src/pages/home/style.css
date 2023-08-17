@@ -1,0 +1,44 @@
+
+/* home body */
+.search-sec{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: -1;
+    text-align: center;
+}
+.google-logo{
+    width: 280px;
+}
+.search-btn-group{
+    display: flex;
+    align-items: cc;
+    justify-content: center;
+}
+.btn.light-btn{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 5px;
+    padding: 9px 16px;
+    text-align: center;
+    cursor: pointer;
+    display: block;
+}
+.btn.light-btn:hover{
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+@media(max-width: 767px) {
+    .google-logo {
+        width: 200px;
+    }    
+}

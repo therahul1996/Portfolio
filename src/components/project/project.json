@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "iconurl": "/images/projects/my-online-tution-logo.png",
+    "name": "My Online Tution App",
+    "urlLink": "https://play.google.com/store/apps/details?id=com.myonlinetution.app&hl=en_IN&gl=US",
+    "title": "Online Learning Mobile App",
+    "description": "My Online Tution provides experienced tutors for all subjects, classes of different boards. Online tution also provides tutors for competitive exams. Choose your convenient time and learn at comfort of your home."
+  },
+  {
+    "id": 2,
+    "iconurl": "/images/projects/laboratorio-logo.png",
+    "name": "Clinica Express",
+    "urlLink": "https://clinica.express/",
+    "title": "Medical Health Services",
+    "description": "Clinica Express offers comprehensive Medical Health Services with the added convenience of reserving hospital seats for your family. Experience top-notch healthcare and secure your loved ones' well-being seamlessly. Your one-stop destination for medical care and hospital accommodations."
+  },
+  {
+    "id": 3,
+    "iconurl": "/images/projects/intechhealthcare-logo.png",
+    "name": "Intech Healthcare",
+    "urlLink": "https://www.intechhealthcare.com/",
+    "title": "pharmaceutical company",
+    "description": "Intech Healthcare is a leading pharmaceutical company committed to improving the lives of people around the world. With a focus on research and development, manufacturing, and distribution of high-quality pharmaceutical products, we are dedicated to meeting the needs of patients and healthcare professionals."
+  },
+  {
+    "id": 4,
+    "iconurl": "/images/projects/my-online-tution-logo.png",
+    "name": "My Online Tution",
+    "urlLink": "https://www.myonlinetution.com/",
+    "title": "Online Learning Website",
+    "description": "My Online Tution provides experienced tutors for all subjects, classes of different boards. Online tution also provides tutors for competitive exams. Choose your convenient time and learn at comfort of your home."
+  },
+  {
+    "id": 5,
+    "iconurl": "/images/projects/trexler-logo.png",
+    "name": "Trexler Plaza",
+    "urlLink": "https://crm.vvd9.com/html/trexler/",
+    "title": "Trexler Travel Plaza",
+    "description": "Trexler Plaza offers a comprehensive truck stop experience, catering to drivers with convenient amenities. Services include acceptance of major fuel credit cards, access to CAT scales, and secure truck parking."
+  },
+  {
+    "id": 6,
+    "iconurl": "/images/projects/logo.png",
+    "name": "Fat Albert",
+    "urlLink": "https://www.fa-delivery.com/",
+    "title": "Order Food Online",
+    "description": "Fat Albert offers convenient online food ordering from various restaurants. With options for pickup, dine-in, and delivery, you can enjoy your favorite meals on your terms. It's a hassle-free way to satisfy your cravings and choose how you want to enjoy your food."
+  },
+  {
+    "id": 7,
+    "iconurl": "/images/projects/eight-logo.png",
+    "name": "EightTech Projects",
+    "urlLink": "https://eighttechprojects.com/",
+    "title": "Website Design & Development Company",
+    "description": "EightTech Projects is a cutting-edge company specializing in Web and Mobile App Development. They offer innovative solutions across diverse industries and technology platforms, delivering next-generation solutions that cater to clients' unique needs and preferences."
+  },
+  {
+    "id": 8,
+    "iconurl": "/images/projects/logo.png",
+    "name": "Crud Application",
+    "urlLink": "https://stackblitz.com/edit/react-rq4d8f",
+    "title": "Crud Operation using React JS",
+    "description": "CRUD App empowers users to manage data seamlessly. With create, edit, and delete functions, it streamlines tasks, enhancing efficiency. Simplifying data manipulation, it offers a versatile tool for various needs."
+  },
+  {
+    "id": 9,
+    "iconurl": "/images/projects/netflix-logo.png",
+    "name": "Netflix clone",
+    "urlLink": "https://netflix-clone-custom.netlify.app/",
+    "title": "Netflix clone using React JS",
+    "description": "A Netflix-inspired platform offers seamless language switch, allowing users to transition from Hindi to English. The service facilitates account management through email sign-up, password retrieval, and personalized profiles. It showcases an array of movie trailers and offers a comprehensive yet user-friendly experience."
+  },
+  {
+    "id": 10,
+    "iconurl": "/images/projects/fcg-logo.png",
+    "name": "Freedom Consulting Group",
+    "urlLink": "https://crm.fcgit.com/html/fcgit2/index.html",
+    "title": "Cunsulting Management Group",
+    "description": "FCG provides expert computer professionals to advise on Management Consulting, System Requirements, Design, Development and Implementation, Conversion and Migration, Network Integration and Connectivity,Production Systems Support, Technical Documentation and Training and Education, We maintain a computerized labor pool containing resumes of our consultants nationwide."
+  },
+  {
+    "id": 11,
+    "iconurl": "/images/projects/eight-logo.png",
+    "name": "Human resource management",
+    "urlLink": "https://eighttechprojects.com/ethrm/",
+    "title": "Human resource management",
+    "description": "Human Resource Management involves overseeing employees, handling leaves, report submissions, task assignments, and summarizing tasks. It ensures efficient workforce management, streamlined operations, and effective communication within the organization."
+  },
+  {
+    "id": 12,
+    "iconurl": "/images/projects/ta-express-logo.png",
+    "name": "TA-Express",
+    "urlLink": "https://crm.fcgit.com/html/ltp",
+    "title": "TA-Express",
+    "description": "The newly constructed TA Express is a franchised location and expands TA's total nationwide network of travel centers to 276 sites, including 45 franchised sites. “In partnership with our franchisee, we are proud to join the Fairfield community and look forward serving both travelers and residents along Interstate 45.”"
+  },
+  {
+    "id": 13,
+    "iconurl": "/images/projects/capknow-logo.png",
+    "name": "Capknow",
+    "urlLink": "https://capknow.com/",
+    "title": "Capknow",
+    "description": "CapKnow Technologies is a Startup owns CapknowOnline.com, India's first SaaS based “Geo-enabled web & mobile integrated online knowledge capturing platform” Using Innovative Technologies like GIS, AR (Augmented Reality) and VR (Virtual Reality), Machine learning, & AI (Artificial Intelligence)."
+  }
+]

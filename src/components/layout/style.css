@@ -1,0 +1,112 @@
+/* navbar index */
+.navbar-index{
+    padding: 10px 20px;
+}
+.navbar-index a{
+    font-size: 12px;
+    font-weight: 500;
+}
+@media(max-width: 767px) {
+    .navbar-index{
+        padding: 10px 15px;
+    }
+}
+/* footer index */
+.bottom-footer-sec-index{
+    background-color: #f8f9fa;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 15px 20px;
+}
+.bottom-footer-sec-index nav ul{
+    margin: 0;
+    display: flex;
+}
+.bottom-footer-sec-index nav ul li{
+    margin-right: 25px;
+}
+.bottom-footer-sec-index nav ul li a{
+    font-size: 13px;
+    font-weight: 400;
+    color: #6e6e6e;
+}
+@media(max-width: 767px) {
+    .bottom-footer-sec-index{
+        padding: 15px 15px;
+    }
+    .bottom-footer-sec-index nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bottom-footer-sec-index nav ul li {
+        margin: 5px 10px;
+    }
+    .bottom-footer-sec-index nav ul li:last-child {
+        width: 100%;
+        text-align: center;
+    }
+}
+/* navbar */
+.navbar{
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.navbar.fixed{
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+.navbar a{
+    font-size: 12px;
+    font-weight: 500;
+}
+.nav-logo{
+    height: 30px;
+}
+.navbar-height{
+    height: 58px;
+}
+/* footer */
+.bottom-footer-sec{
+    background-color: #f8f9fa;
+    padding: 15px 20px;
+}
+.bottom-footer-sec nav ul{
+    margin: 0;
+    display: flex;
+}
+.bottom-footer-sec nav ul li{
+    margin-right: 25px;
+}
+.bottom-footer-sec nav ul li a{
+    font-size: 13px;
+    font-weight: 400;
+    color: #6e6e6e;
+}
+@media(max-width: 767px) {
+    .bottom-footer-sec{
+        padding: 15px;
+    }
+    .bottom-footer-sec nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bottom-footer-sec nav ul li {
+        margin: 5px 10px;
+    }
+    .bottom-footer-sec nav ul li:last-child {
+        width: 100%;
+        text-align: center;
+    }
+    .navbar{
+        padding: 10px 15px;
+    }
+}
