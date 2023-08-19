@@ -4,6 +4,7 @@ import SocialLinkDropdown from '../dropdown/SocialLinkDropdown'
 import SmallHeader from '../smallHeader/SmallHeader'
 import SearchBar from '../searchBar/SearchBar';
 import googleLogo from '../images/google-logo.png'
+import resume from '../images/Rahul-Kumar-Sahu-CV.pdf'
 import { Link } from 'react-router-dom'
 import './style.css'
 const Header = () => {
@@ -26,7 +27,7 @@ const Header = () => {
       </ul>
     <ul className='flex items-center content-end m-0'>
       <li className='mr-10px'>
-        <Link to={"https://drive.google.com/file/d/1uAgoqfDbi8w6q16bcMpL90DFThrxqjZP/view?usp=sharing"} target="_blank">Download CV</Link>
+        <Link to={resume} target="_blank">Download CV</Link>
       </li>
       <li className='mr-10px'>
         <SocialLinkDropdown />

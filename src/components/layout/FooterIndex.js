@@ -13,7 +13,7 @@ const FooterIndex = () => {
               <Link to={'/contact'}>Contact</Link>
             </li>
             <li>
-              <Link to={''}>© 2023 Rahul Shah All right reserved</Link>
+              <Link to={''}>© 2023 Rahul Kumar Sahu All right reserved</Link>
             </li>
           </ul>
         </nav>

@@ -6,7 +6,7 @@ const SkillList = () => {
   return (
     <>
        <div key={skillData.id} className='skill-box'>
-            <Link className='skill-main-head' target="_blank">{skillData.name}</Link>
+            <Link className='skill-main-head'>{skillData.name}</Link>
             <p className='skill-desc'>{skillData.description}</p>
             {skillData.skillHeading.map((skillHead, id) => {
               return(

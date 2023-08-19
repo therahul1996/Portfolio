@@ -9,129 +9,33 @@
       "list": [
         {
           "id": 1,
-          "name": "HTML5"
+          "name": "HTML"
         },
         {
           "id": 2,
-          "name": "CSS3"
+          "name": "CSS"
         },
         {
           "id": 3,
-          "name": "Ionic"
-        },
-        {
-          "id": 4,
-          "name": "SCSS"
-        },
-        {
-          "id": 5,
           "name": "JavaScript"
         },
         {
-          "id": 6,
-          "name": "jQuery"
+          "id": 4,
+          "name": "(ES6+)"
         },
         {
-          "id": 7,
+          "id": 5,
           "name": "PHP"
         },
         {
-          "id": 8,
+          "id": 6,
           "name": "Typescript"
-        },
-        {
-          "id": 9,
-          "name": "GIT"
         }
         
       ]
     },
     {
       "id": 2,
-      "heading": "Software",
-      "list": [
-        {
-          "id": 1,
-          "name": "Figma"
-        },
-        {
-          "id": 2,
-          "name": "Adobe Photoshop"
-        },
-        {
-          "id": 3,
-          "name": "Adobe illustrator"
-        },
-        {
-          "id": 4,
-          "name": "Android Studio"
-        },
-        {
-          "id": 5,
-          "name": "JDK"
-        },
-        {
-          "id": 6,
-          "name": "Node.js"
-        },
-        {
-          "id": 7,
-          "name": "Canva"
-        }
-        
-      ]
-    },
-    {
-      "id": 3,
-      "heading": "Concepts",
-      "list": [
-        {
-          "id": 1,
-          "name": "Created design on HTML CSS and JavaScript"
-        },
-        {
-          "id": 2,
-          "name": "implement design"
-        },
-        {
-          "id": 3,
-          "name": "working on MVC"
-        }
-        
-      ]
-    },
-    {
-      "id": 4,
-      "heading": "Technologies",
-      "list": [
-        {
-          "id": 1,
-          "name": "Website design"
-        },
-        {
-          "id": 2,
-          "name": "App design"
-        }
-        
-      ]
-    },
-    {
-      "id": 5,
-      "heading": "Database",
-      "list": [
-        {
-          "id": 1,
-          "name": "SQL"
-        },
-        {
-          "id": 2,
-          "name": "MySQL"
-        }
-        
-      ]
-    },
-    {
-      "id": 6,
       "heading": "Framework",
       "list": [
         {
@@ -158,7 +62,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 3,
       "heading": "CSS Framework",
       "list": [
         {
@@ -172,6 +76,97 @@
         {
           "id": 3,
           "name": "Material UI"
+        }
+        
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "Version Control",
+      "list": [
+        {
+          "id": 1,
+          "name": "Git"
+        },
+        {
+          "id": 2,
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "Concepts",
+      "list": [
+        {
+          "id": 1,
+          "name": "Responsive Web Design"
+        },
+        {
+          "id": 2,
+          "name": "Web Performance Optimization"
+        },
+        {
+          "id": 3,
+          "name": "Cross-Browser Compatibility"
+        },
+        {
+          "id": 4,
+          "name": "UI/UX Design Principles"
+        },
+        {
+          "id": 5,
+          "name": "API Integration"
+        },
+        {
+          "id": 6,
+          "name": "Basic Knowledge of Back-end Technologies (Node.js, Express)"
+        }
+        
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "Software",
+      "list": [
+        {
+          "id": 1,
+          "name": "Figma"
+        },
+        {
+          "id": 2,
+          "name": "Adobe Photoshop"
+        },
+        {
+          "id": 3,
+          "name": "Adobe illustrator"
+        },
+        {
+          "id": 4,
+          "name": "Android Studio"
+        },
+        {
+          "id": 5,
+          "name": "JDK"
+        },
+        {
+          "id": 6,
+          "name": "Canva"
+        }
+        
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "Database",
+      "list": [
+        {
+          "id": 1,
+          "name": "SQL"
+        },
+        {
+          "id": 2,
+          "name": "MySQL"
         }
         
       ]
