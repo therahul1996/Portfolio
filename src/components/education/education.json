@@ -1,43 +1,23 @@
 [
-  {
-    "id": 1,
-    "iconurl": "/images/education/udemy-logo.png",
-    "name": "React Hook Redux",
-    "urlDir": "https://www.udemy.com/course/complete-react-course-w-hooks-react-router-redux-usecontext/",
-    "urlLink": "/images/education/react-hook-redux.jpeg",
-    "title": "React - The Complete Guide with React Hook Redux",
-    "duration": "Jan 2022 to Jan 2022",
-    "description": "I've acquired React Hook Redux skills through Udemy, gaining expertise in state management, component interactions, and asynchronous actions. This training enhanced my ability to build dynamic and efficient web applications using modern React practices."
-  },
-  {
-    "id": 2,
-    "iconurl": "/images/education/udemy-logo.png",
-    "name": "React native with Expo",
-    "urlDir": "https://www.udemy.com/course/react-native-expo-for-multiplatform-ios-android-mobile-app-development/",
-    "urlLink": "/images/education/react-native-expo-certificate.jpeg",
-    "title": "React native Expo for multiplatform mobile app development",
-    "duration": "June 2021 to June 2021",
-    "description": "I have successfully acquired React Native with Expo skills through a comprehensive Udemy course. This training covered essential concepts and practical applications, enabling me to proficiently develop mobile apps using React Native and Expo's versatile tools and features."
-  },
-  {
-    "id": 3,
-    "iconurl": "/images/education/php-logo.png",
-    "name": "PHP Training Kolkata",
-    "urlDir": "https://www.phptrainingkolkata.in/",
-    "urlLink": "https://www.phptrainingkolkata.in/",
-    "title": "Full Stack Training PHP",
-    "duration": "Sep 2019 to Jan 2020",
-    "description": "During my time at the PHP Training Kolkata, I acquired proficiency in a range of web development technologies. I gained a solid understanding of HTML for structuring web content, CSS for styling and layout, JavaScript for interactive features, and PHP for server-side scripting."
-  },
     {
-      "id": 4,
+      "id": 1,
       "iconurl": "/images/education/vbu-logo.png",
       "name": "Vinoba Bhave University",
       "urlDir": "https://www.vbu.ac.in/",
       "urlLink": "https://www.vbu.ac.in/",
       "title": "Bachelor of Commerce",
-      "duration": "Apr 2015 to Aug 2018",
+      "duration": "2015 to 2018",
       "description": "I have obtained a Bachelor of Commerce degree from Vinoba Bhave University. This program provided me with a comprehensive understanding of various business and financial concepts. Through my studies, I gained insights into accounting, economics, management, and other related subjects."
-    }  
+    },
+    {
+      "id": 2,
+      "iconurl": "/images/education/gncollege-logo.png",
+      "name": "Guru Nanak College - Dhanbad",
+      "urlDir": "http://www.gncollege.org/",
+      "urlLink": "http://www.gncollege.org/",
+      "title": "Intermediate of Commerce",
+      "duration": "2013 to 2015",
+      "description": "I have obtained a Bachelor of Commerce degree from Vinoba Bhave University. This program provided me with a comprehensive understanding of various business and financial concepts. Through my studies, I gained insights into accounting, economics, management, and other related subjects."
+    }   
   ]
   

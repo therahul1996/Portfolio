@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "iconurl": "/images/certificate/freecodecamp-logo.jpeg",
+      "name": "freeCodeCamp",
+      "urlDir": "https://freecodecamp.org/",
+      "urlLink": "https://freecodecamp.org/certification/rahul0007/front-end-development-libraries",
+      "title": "Front End Development Libraries",
+      "duration": "Issued Aug 2023",
+      "description": "I have successfully completed the freeCodeCamp Front End Development Libraries certification. This comprehensive program equipped me with essential skills in using React, Redux, Sass, and more to create dynamic and interactive web applications. Ready to apply my expertise in real-world projects."
+    },
+  {
+    "id": 2,
+    "iconurl": "/images/certificate/udemy-logo.png",
+    "name": "Udemy",
+    "urlDir": "https://www.udemy.com",
+    "urlLink": "https://www.udemy.com/certificate/UC-c5730c06-9c18-4aa5-bd00-687f8b424c63/",
+    "title": "React - The Complete Guide with React Hook Redux",
+    "duration": "Issued Jan 2022",
+    "description": "I've acquired React Hook Redux skills through Udemy, gaining expertise in state management, component interactions, and asynchronous actions. This training enhanced my ability to build dynamic and efficient web applications using modern React practices."
+  },
+  {
+    "id": 3,
+    "iconurl": "/images/certificate/udemy-logo.png",
+    "name": "Udemy",
+    "urlDir": "https://www.udemy.com",
+    "urlLink": "https://www.udemy.com/certificate/UC-7525f7d2-c0cf-499e-9c69-855687ae7065/",
+    "title": "React native Expo for multiplatform mobile app development",
+    "duration": "Issued Jan 2021",
+    "description": "I have successfully acquired React Native with Expo skills through a comprehensive Udemy course. This training covered essential concepts and practical applications, enabling me to proficiently develop mobile apps using React Native and Expo's versatile tools and features."
+  },
+  {
+    "id": 4,
+    "iconurl": "/images/certificate/freecodecamp-logo.jpeg",
+    "name": "freeCodeCamp",
+    "urlDir": "https://freecodecamp.org/",
+    "urlLink": "https://freecodecamp.org/certification/rahul0007/responsive-web-design",
+    "title": "Responsive Web Design",
+    "duration": "Issued Mar 2020",
+    "description": "I've successfully completed freeCodeCamp's Responsive Web Design certificate, demonstrating proficiency in creating adaptable and user-friendly web layouts. This comprehensive program equipped me with essential skills in HTML, CSS, and responsive design principles, empowering me to build dynamic and visually appealing websites."
+  }
+  ]
+  

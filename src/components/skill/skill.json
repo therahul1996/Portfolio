@@ -21,7 +21,7 @@
         },
         {
           "id": 4,
-          "name": "(ES6+)"
+          "name": "JavaScript (ES6+)"
         },
         {
           "id": 5,
@@ -36,33 +36,61 @@
     },
     {
       "id": 2,
+      "heading": "Version Control",
+      "list": [
+        {
+          "id": 1,
+          "name": "Git"
+        },
+        {
+          "id": 2,
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "API Integration",
+      "list": [
+        {
+          "id": 1,
+          "name": "RESTful APIs"
+        },
+        {
+          "id": 2,
+          "name": "JSON"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "heading": "Framework",
       "list": [
         {
           "id": 1,
-          "name": "CodeIgniter"
-        },
-        {
-          "id": 2,
-          "name": "Laravel"
-        },
-        {
-          "id": 3,
-          "name": "Ionic"
-        },
-        {
-          "id": 4,
           "name": "React"
         },
         {
-          "id": 5,
+          "id": 2,
           "name": "Angular JS"
+        },
+        {
+          "id": 3,
+          "name": "CodeIgniter"
+        },
+        {
+          "id": 4,
+          "name": "Ionic"
+        },
+        {
+          "id": 5,
+          "name": "Laravel"
         }
         
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "heading": "CSS Framework",
       "list": [
         {
@@ -81,21 +109,7 @@
       ]
     },
     {
-      "id": 4,
-      "heading": "Version Control",
-      "list": [
-        {
-          "id": 1,
-          "name": "Git"
-        },
-        {
-          "id": 2,
-          "name": "GitHub"
-        }
-      ]
-    },
-    {
-      "id": 5,
+      "id": 6,
       "heading": "Concepts",
       "list": [
         {
@@ -126,7 +140,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "heading": "Software",
       "list": [
         {
@@ -157,7 +171,22 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
+      "heading": "Project Management",
+      "list": [
+        {
+          "id": 1,
+          "name": "Agile"
+        },
+        {
+          "id": 2,
+          "name": "Scrum"
+        }
+        
+      ]
+    },
+    {
+      "id": 9,
       "heading": "Database",
       "list": [
         {

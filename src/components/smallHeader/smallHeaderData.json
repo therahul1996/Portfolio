@@ -7,31 +7,37 @@
     },
     {
         "id": 2,
+        "iconurl": "/images/pages/education.svg",
+        "title": "Education",
+        "urlLink": "/education"
+    },
+    {
+        "id": 3,
         "iconurl": "/images/pages/experience.svg",
         "title": "Experience",
         "urlLink": "/experience"
     },
     {
-        "id": 3,
+        "id": 4,
         "iconurl": "/images/pages/skill.svg",
         "title": "Skill",
         "urlLink": "/skill"
         
     },
     {
-        "id": 4,
+        "id": 5,
         "iconurl": "/images/pages/projects.svg",
         "title": "Projects",
         "urlLink": "/projects"
     },
     {
-        "id": 5,
-        "iconurl": "/images/pages/education.svg",
-        "title": "Education",
-        "urlLink": "/education"
+        "id": 6,
+        "iconurl": "/images/pages/certificate.svg",
+        "title": "Certifications",
+        "urlLink": "/certification"
     },
     {
-        "id": 6,
+        "id": 7,
         "iconurl": "/images/pages/contact.svg",
         "title": "Contact",
         "urlLink": "/contact"

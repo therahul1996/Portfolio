@@ -10,6 +10,7 @@ import SkillList from '../../components/skill/SkillList'
 import Summary from '../../components/summary/Summary'
 import Pagination from '../../components/pagination/Pagination'
 import Seo from '../../components/seo/Seo'
+import CertificationList from '../../components/certification/CertificationList'
 
 const Profile = () => {
   return (
@@ -25,10 +26,11 @@ const Profile = () => {
         <div className='flex flex-sm-collumn-reverse'>
         <div className='left-sec'>
         <Summary />
+        <EducationList />
         <ExperienceList />
         <SkillList />
         <ProjectList />
-        <EducationList />
+        <CertificationList />
         <Pagination />
         </div>
         <div className='right-sec'>

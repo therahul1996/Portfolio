@@ -16,6 +16,15 @@
         "title": "Web Designer",
         "duration": "Feb 2020 to Mar 2022",
         "description": "Designed and developed responsive websites for clients across various industries, ensuring a seamless user experience and optimal performance. Collaborated closely with content creators to deliver cohesive and engaging web solutions. Translated wireframes and mockups into pixel-perfect, standards-compliant HTML, CSS, and JavaScript code. Utilized design tools such as Adobe Photoshop, illustrator, and Figma to create visually appealing layouts and graphics. Conducted regular website maintenance and updates to ensure content accuracy and functionality."
-      }
+      },
+      {
+          "id": 3,
+          "iconurl": "/images/experience/php-logo.png",
+          "name": "PHP Training Kolkata",
+          "urlLink": "https://www.phptrainingkolkata.in/",
+          "title": "Web Development Training",
+          "duration": "Sep 2019 to Jan 2020",
+          "description": "I had the privilege of participating in an immersive training program at PHP Training Kolkata, where I learned from industry experts and gained hands-on experience in building real-world projects. My training equipped me with a strong foundation in PHP frameworks, version control, and responsive web design."
+        }
   ]
   
