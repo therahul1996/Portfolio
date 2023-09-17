@@ -90,10 +90,10 @@
   {
     "id": 12,
     "iconurl": "/images/projects/logo.png",
-    "name": "Crud Application",
-    "urlLink": "https://stackblitz.com/edit/react-rq4d8f",
-    "title": "Crud Operation using React JS",
-    "description": "CRUD App empowers users to manage data seamlessly. With create, edit, and delete functions, it streamlines tasks, enhancing efficiency. Simplifying data manipulation, it offers a versatile tool for various needs."
+    "name": "Weather App",
+    "urlLink": "https://weather-app-gray-psi-53.vercel.app/",
+    "title": "Weather App using React JS",
+    "description": "I've developed a weather app using React JS and the OpenWeather API. The app provides real-time weather information, including your current location. Users can search for weather by city name. Additionally, I've implemented a sleek dark and light mode for enhanced user experience."
   },
   {
     "id": 13,

@@ -1,25 +1,27 @@
-import React from 'react'
-import {Link} from 'react-router-dom'
-import './style.css'
+import React from "react";
+import { Link } from "react-router-dom";
+import "./style.css";
 const ContentBox = (props) => {
   return (
-   <div className='content-box'>
-    <div className='content-head'>
-        <div className='ch-icon'>
-            <img src={props.icon} alt={props.name} />
+    <div className="content-box">
+      <div className="content-head">
+        <div className="ch-icon">
+          <img src={props.icon} alt={props.name} />
         </div>
-        <div className='ch-text'>
-            <label>{props.name}</label>
-            <span>{props.urlLink}</span>
+        <div className="ch-text">
+          <label>{props.name}</label>
+          <span>{props.urlLink}</span>
         </div>
-    </div>
-    <Link to={props.urlLink} className='main-head' target="_blank">{props.title}</Link>
-    <p className='desc'>
+      </div>
+      <Link to={props.urlLink} className="main-head" target="_blank">
+        {props.title}
+      </Link>
+      <p className="desc">
         <span>{props.date}</span>&nbsp;
         {props.description}
-    </p>
-   </div >
-  )
-}
+      </p>
+    </div>
+  );
+};
 
-export default ContentBox
+export default ContentBox;

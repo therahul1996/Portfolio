@@ -145,26 +145,30 @@
       "list": [
         {
           "id": 1,
-          "name": "Figma"
+          "name": "Postman"
         },
         {
           "id": 2,
-          "name": "Adobe Photoshop"
+          "name": "Figma"
         },
         {
           "id": 3,
-          "name": "Adobe illustrator"
+          "name": "Adobe Photoshop"
         },
         {
           "id": 4,
-          "name": "Android Studio"
+          "name": "Adobe illustrator"
         },
         {
           "id": 5,
-          "name": "JDK"
+          "name": "Android Studio"
         },
         {
           "id": 6,
+          "name": "JDK"
+        },
+        {
+          "id": 7,
           "name": "Canva"
         }
         
