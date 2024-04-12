@@ -13,7 +13,7 @@ const MyProfile = () => {
                 <div className='name-and-logo'>
                     <div>
                         <h3 className='name'>{profileData.name}</h3>
-                        <p className='designation'><ReactTyped strings={["Front End Developer", "UI / UX Designer", "Web Designer"]} typeSpeed={100} loop /></p>
+                        <p className='designation'><ReactTyped strings={["React Js Developer", "Front End Developer", "UI / UX Designer", "Web Designer"]} typeSpeed={100} loop /></p>
                     </div>
                     <div>
                         <img src={profileData.logo} alt={profileData.logo} className='img-fluid' />
