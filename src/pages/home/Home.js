@@ -1,11 +1,34 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 import HeaderIndex from "../../components/layout/HeaderIndex";
 import FooterIndex from "../../components/layout/FooterIndex";
 import SearchBarIndex from "../../components/searchBar/SearchBarIndex";
 import Seo from "../../components/seo/Seo";
+import { useNavigate } from "react-router-dom";
 const Home = () => {
+  const navigate = useNavigate();
+  const [searchQuery, setSearchQuery] = useState("");
+  const [error, setError] = useState({ message: "" });
+  const pages = [
+    "profile",
+    "education",
+    "experience",
+    "skill",
+    "projects",
+    "certification",
+    "contact",
+  ];
+
+  const handleSearch = () => {
+    if (searchQuery === "") {
+      setError({ message: "Please write something" });
+    } else if (pages.includes(searchQuery)) {
+      navigate(searchQuery);
+    } else {
+      window.location.href = `https://www.google.com/search?q=${searchQuery}`;
+    }
+  };
   return (
     <>
       <Seo
@@ -21,11 +44,16 @@ const Home = () => {
             alt="google logo"
             className="google-logo"
           />
-          <SearchBarIndex />
+          <SearchBarIndex
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            error={error.message}
+          />
+
           <div className="search-btn-group">
-            <Link to="/profile" className="btn light-btn">
+            <button className="btn light-btn" onClick={handleSearch}>
               Google Resume
-            </Link>
+            </button>
             <Link to={"/contact"} className="btn light-btn">
               I am Feeling Lucky
             </Link>

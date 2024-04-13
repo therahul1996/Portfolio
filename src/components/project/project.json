@@ -1,6 +1,38 @@
 [
   {
     "id": 1,
+    "iconurl": "/images/projects/barbuddy-logo.png",
+    "name": "Bar buddy",
+    "urlLink": "https://bar-org.codesfortomorrow.com/",
+    "title": "An online platform enabling users to conveniently order food",
+    "description": "Contributed to Bar-Buddy, an online platform enabling users to conveniently order food and drinks. Enhanced user experience and optimized operations for efficient order processing, showcasing proficiency in leveraging technology to improve customer satisfaction."
+  },
+  {
+    "id": 2,
+    "iconurl": "/images/projects/verslan-logo.png",
+    "name": "Verslan",
+    "urlLink": "https://verslan.com/",
+    "title": "A Blockchain-based trading platform",
+    "description": "Experienced in utilizing Verslan, a Blockchain-based trading platform for Real World Assets (RWA) transactions. Skilled in executing trades efficiently and securely, contributing to operational excellence."
+  },
+  {
+    "id": 3,
+    "iconurl": "/images/projects/fxfort-logo.png",
+    "name": "Fxfort",
+    "urlLink": "https://fxfort.io/",
+    "title": "A dynamic platform for buying and selling of USDFx coins",
+    "description": "Experienced in utilizing FxFort, a dynamic platform facilitating the seamless buying and selling of USDFx with various currencies such as INR, AED, and USD. Proficient in navigating the platform's features to execute transactions efficiently. Additionally, adept at exploring partnership opportunities within the platform to generate profitable outcomes."
+  },
+  {
+    "id": 4,
+    "iconurl": "/images/projects/web3-logo.png",
+    "name": "web3 onboarding",
+    "urlLink": "https://web3onboarding.com/",
+    "title": "A cryptocurrency purchases platform",
+    "description": "Led development of Web3 Onboarding Platform on Next.js, streamlining cryptocurrency purchases. Implemented designs, robust login authentication, content integration, Contact Us, and Stripe payment gateway. Demonstrates expertise in Next.js, React, and effective end-to-end solution delivery for enhanced user experience and secure transactions."
+  },
+  {
+    "id": 5,
     "iconurl": "/images/projects/netflix-logo.png",
     "name": "Netflix clone",
     "urlLink": "https://netflix-clone-custom.netlify.app/",
@@ -8,7 +40,7 @@
     "description": "This is a React-based Netflix clone that empowers users to explore content in a personalized manner. The application features multi-language support (English and Hindi), seamless user authentication, including login, sign-up, and password recovery. Additionally, users can access a vast library of movies, view trailers, and enhance their entertainment experience."
   },
   {
-    "id": 2,
+    "id": 6,
     "iconurl": "/images/projects/logo.png",
     "name": "Feedback App",
     "urlLink": "https://feedback-app-henna-six.vercel.app/",
@@ -16,7 +48,7 @@
     "description": "This is a Feedback application. The app facilitates user-friendly feedback submission, deletion, and offers both grid and list view options for efficient feedback review. Implemented static data presentation via JSON. Leveraged React and React Redux for seamless data management. Successfully deployed the app on Vercel for widespread accessibility."
   },
   {
-    "id": 3,
+    "id": 7,
     "iconurl": "/images/projects/intechhealthcare-logo.png",
     "name": "Intech Healthcare",
     "urlLink": "https://www.intechhealthcare.com/",
@@ -24,7 +56,7 @@
     "description": "Intech Healthcare is a leading pharmaceutical company committed to improving the lives of people around the world. With a focus on research and development, manufacturing, and distribution of high-quality pharmaceutical products, we are dedicated to meeting the needs of patients and healthcare professionals."
   },
   {
-    "id": 4,
+    "id": 8,
     "iconurl": "/images/projects/my-online-tution-logo.png",
     "name": "My Online Tution",
     "urlLink": "https://www.myonlinetution.com/",
@@ -32,7 +64,7 @@
     "description": "My Online Tution provides experienced tutors for all subjects, classes of different boards. Online tution also provides tutors for competitive exams. Choose your convenient time and learn at comfort of your home."
   },
   {
-    "id": 5,
+    "id": 9,
     "iconurl": "/images/projects/trexler-logo.png",
     "name": "Trexler Plaza",
     "urlLink": "https://crm.vvd9.com/html/trexler/",
@@ -40,7 +72,7 @@
     "description": "Trexler Plaza offers a comprehensive truck stop experience, catering to drivers with convenient amenities. Services include acceptance of major fuel credit cards, access to CAT scales, and secure truck parking."
   },
   {
-    "id": 6,
+    "id": 10,
     "iconurl": "/images/projects/eight-logo.png",
     "name": "EightTech Projects",
     "urlLink": "https://eighttechprojects.com/",
@@ -48,7 +80,7 @@
     "description": "EightTech Projects is a cutting-edge company specializing in Web and Mobile App Development. They offer innovative solutions across diverse industries and technology platforms, delivering next-generation solutions that cater to clients' unique needs and preferences."
   },
   {
-    "id": 7,
+    "id": 11,
     "iconurl": "/images/projects/fcg-logo.png",
     "name": "Freedom Consulting Group",
     "urlLink": "https://crm.fcgit.com/html/fcgit2/index.html",
@@ -56,7 +88,7 @@
     "description": "FCG provides expert computer professionals to advise on Management Consulting, System Requirements, Design, Development and Implementation, Conversion and Migration, Network Integration and Connectivity,Production Systems Support, Technical Documentation and Training and Education, We maintain a computerized labor pool containing resumes of our consultants nationwide."
   },
   {
-    "id": 8,
+    "id": 12,
     "iconurl": "/images/projects/eight-logo.png",
     "name": "Human resource management",
     "urlLink": "https://eighttechprojects.com/ethrm/",
@@ -64,7 +96,7 @@
     "description": "Human Resource Management involves overseeing employees, handling leaves, report submissions, task assignments, and summarizing tasks. It ensures efficient workforce management, streamlined operations, and effective communication within the organization."
   },
   {
-    "id": 9,
+    "id": 92,
     "iconurl": "/images/projects/ta-express-logo.png",
     "name": "TA-Express",
     "urlLink": "https://crm.fcgit.com/html/ltp",
