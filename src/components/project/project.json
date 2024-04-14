@@ -35,7 +35,7 @@
     "id": 5,
     "iconurl": "/images/projects/netflix-logo.png",
     "name": "Netflix clone",
-    "urlLink": "https://netflix-clone-custom.netlify.app/",
+    "urlLink": "https://react-netflix.netlify.app/",
     "title": "Netflix clone using React JS",
     "description": "This is a React-based Netflix clone that empowers users to explore content in a personalized manner. The application features multi-language support (English and Hindi), seamless user authentication, including login, sign-up, and password recovery. Additionally, users can access a vast library of movies, view trailers, and enhance their entertainment experience."
   },
