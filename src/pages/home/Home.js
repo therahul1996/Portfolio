@@ -20,10 +20,11 @@ const Home = () => {
     "contact",
   ];
 
-  const handleSearch = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
     if (searchQuery === "") {
       setError({ message: "Please write something" });
-    } else if (pages.includes(searchQuery)) {
+    } else if (pages.includes(searchQuery.toLocaleLowerCase())) {
       navigate(searchQuery);
     } else {
       window.location.href = `https://www.google.com/search?q=${searchQuery}`;
@@ -39,25 +40,27 @@ const Home = () => {
       <HeaderIndex />
       <section className="search-sec">
         <div className="container">
-          <img
-            src="/images/google-logo.png"
-            alt="google logo"
-            className="google-logo"
-          />
-          <SearchBarIndex
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            error={error.message}
-          />
+          <form onSubmit={handleSubmit}>
+            <img
+              src="/images/google-logo.png"
+              alt="google logo"
+              className="google-logo"
+            />
+            <SearchBarIndex
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              error={error.message}
+            />
 
-          <div className="search-btn-group">
-            <button className="btn light-btn" onClick={handleSearch}>
-              Google Resume
-            </button>
-            <Link to={"/contact"} className="btn light-btn">
-              I am Feeling Lucky
-            </Link>
-          </div>
+            <div className="search-btn-group">
+              <button type="submit" className="btn light-btn">
+                Google Resume
+              </button>
+              <Link to={"/contact"} className="btn light-btn">
+                I am Feeling Lucky
+              </Link>
+            </div>
+          </form>
         </div>
       </section>
       <FooterIndex />

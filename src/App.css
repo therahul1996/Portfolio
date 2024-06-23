@@ -16,7 +16,7 @@ a:hover {
   text-decoration: underline;
 }
 /* section */
-section{
+section {
   padding: 40px 0;
 }
 /* margin */
@@ -62,8 +62,8 @@ section{
 .content-end {
   justify-content: end;
 }
-@media(max-width: 767px) {
-  .flex-sm-collumn-reverse{
+@media (max-width: 767px) {
+  .flex-sm-collumn-reverse {
     flex-direction: column-reverse;
   }
 }
@@ -347,21 +347,28 @@ section{
 } */
 
 /* portfolio sec */
-.left-sec{
+.left-sec {
   width: calc(65% - 16px);
   margin: 0 7px;
 }
-.right-sec{
+.right-sec {
+  width: calc(35% - 16px);
+  margin: 0 7px;
+}
+.profile-right-sec {
   width: calc(35% - 16px);
   margin: 0 7px;
 }
 @media (max-width: 767px) {
-  .left-sec{
-      width: 100%;
-      margin: 0 0 15px 0;
+  .left-sec {
+    width: 100%;
+    margin: 0 0 15px 0;
   }
-  .right-sec{
-      width: 100%;
-      margin: 0 0 15px 0;
+  .profile-right-sec {
+    width: 100%;
+    margin: 0 0 15px 0;
+  }
+  .right-sec {
+    display: none;
   }
 }
