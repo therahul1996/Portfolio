@@ -11,6 +11,7 @@ const MyProfile = () => {
           src={profileData.profileImg}
           alt={profileData.name}
           className="img-fluid"
+          loading="lazy"
         />
       </div>
       <div className="name-sec">
