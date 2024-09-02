@@ -354,6 +354,7 @@ section {
 .right-sec {
   width: calc(35% - 16px);
   margin: 0 7px;
+  max-width: 381px;
 }
 .profile-right-sec {
   width: calc(35% - 16px);
