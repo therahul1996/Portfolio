@@ -50,7 +50,7 @@
   {
     "id": 7,
     "iconurl": "/images/projects/web3-logo.png",
-    "name": "web3 onboarding",
+    "name": "web3 Onboarding",
     "urlLink": "https://web3onboarding.com/",
     "title": "A cryptocurrency purchases platform",
     "description": "Led development of Web3 Onboarding Platform on Next.js, streamlining cryptocurrency purchases. Implemented designs, robust login authentication, content integration, Contact Us, and Stripe payment gateway. Demonstrates expertise in Next.js, React, and effective end-to-end solution delivery for enhanced user experience and secure transactions."
@@ -59,7 +59,7 @@
     "id": 8,
     "iconurl": "/images/projects/netflix-logo.png",
     "name": "Netflix clone",
-    "urlLink": "https://react-netflix.netlify.app/",
+    "urlLink": "https://react-js-clone.netlify.app/",
     "title": "Netflix clone using React JS",
     "description": "This is a React-based Netflix clone that empowers users to explore content in a personalized manner. The application features multi-language support (English and Hindi), seamless user authentication, including login, sign-up, and password recovery. Additionally, users can access a vast library of movies, view trailers, and enhance their entertainment experience."
   },
