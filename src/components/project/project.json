@@ -1,5 +1,13 @@
 [
   {
+    "id": 148,
+    "iconurl": "/images/projects/logo.png",
+    "name": "Dex App",
+    "urlLink": "https://web3-app-nu.vercel.app/",
+    "title": "Dex App - A Multi-Network Token Swaps",
+    "description": "Developed a DEX app for multi-network token swaps using React and Ant Design for the frontend, with a Node.js and Express backend. Integrated with the 1inch API to handle swap requests and streamline token exchanges, providing users with a seamless and efficient DEX experience."
+  },
+  {
     "id": 1,
     "iconurl": "/images/projects/lottri.png",
     "name": "Lottri",
