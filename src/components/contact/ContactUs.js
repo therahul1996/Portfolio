@@ -12,30 +12,34 @@ const ContactUs = () => {
     const showMessage = (text, type) => {
         setAlert(text);
         setAlertType(type);
-    
+
         setTimeout(() => {
-        setAlert('');
-        setAlertType('');
+            setAlert('');
+            setAlertType('');
         }, 3000);
-      };
+    };
+    const isValidEmail = (email) => {
+        const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return regex.test(email);
+    };
     const sendEmail = async (e) => {
         e.preventDefault();
         if (!name) {
             setError((prevError) => ({ ...prevError, name: true }));
             return;
-          }
-          if (!email) {
+        }
+        if (!email || !isValidEmail(email)) {
             setError((prevError) => ({ ...prevError, email: true }));
             return;
-          }
-          if (!subject) {
+        }
+        if (!subject) {
             setError((prevError) => ({ ...prevError, subject: true }));
             return;
-          }
-          if (!message) {
+        }
+        if (!message) {
             setError((prevError) => ({ ...prevError, message: true }));
             return;
-          }
+        }
         try {
             const templateParams = {
                 user_name: name,
@@ -50,7 +54,7 @@ const ContactUs = () => {
             setSubject('');
             setMessage('');
             showMessage('Successfully Submitted...!', 'success');
-            
+
         } catch (error) {
             showMessage('Error sending email:', error, 'error');
         }
@@ -61,7 +65,7 @@ const ContactUs = () => {
             <h1 className='cf-head'>Contact me..!</h1>
             {alert && (
                 <div className={`contact-alert ${alertType}`}>
-                {alert}
+                    {alert}
                 </div>
             )}
             <form onSubmit={sendEmail}>
@@ -72,8 +76,8 @@ const ContactUs = () => {
                         className={`form-control ${error.name && "error-input"}`}
                         placeholder='john doe'
                         value={name}
-                        onChange={(e) => {setName(e.target.value); setError((prevError) => ({ ...prevError, name: false }))}} />
-                        
+                        onChange={(e) => { setName(e.target.value); setError((prevError) => ({ ...prevError, name: false })) }} />
+
                 </div>
                 <div className='form-group'>
                     <label>Email</label>
@@ -82,7 +86,7 @@ const ContactUs = () => {
                         className={`form-control ${error.email && "error-input"}`}
                         placeholder='abcd@gmail.com'
                         value={email}
-                        onChange={(e) => {setEmail(e.target.value); setError((prevError) => ({ ...prevError, email: false }))}} />
+                        onChange={(e) => { setEmail(e.target.value); setError((prevError) => ({ ...prevError, email: false })) }} />
                 </div>
                 <div className='form-group'>
                     <label>Subject</label>
@@ -91,7 +95,7 @@ const ContactUs = () => {
                         className={`form-control ${error.subject && "error-input"}`}
                         placeholder='write a subject'
                         value={subject}
-                        onChange={(e) => {setSubject(e.target.value); setError((prevError) => ({ ...prevError, subject: false }))}} />
+                        onChange={(e) => { setSubject(e.target.value); setError((prevError) => ({ ...prevError, subject: false })) }} />
                 </div>
                 <div className='form-group'>
                     <label>Message</label>
@@ -100,7 +104,7 @@ const ContactUs = () => {
                         cols={40}
                         placeholder='write a message'
                         value={message}
-                        onChange={(e) => {setMessage(e.target.value); setError((prevError) => ({ ...prevError, message: false }))}}>
+                        onChange={(e) => { setMessage(e.target.value); setError((prevError) => ({ ...prevError, message: false })) }}>
                     </textarea>
                 </div>
                 <div>
