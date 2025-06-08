@@ -1,15 +1,24 @@
 [
   {
     "id": 1,
+    "iconurl": "/images/experience/edge-logo.png",
+    "name": "Edgematics Groups",
+    "urlLink": "https://edgematics.ai/",
+    "title": "Senior UI Developer",
+    "duration": "Feb 2025 to Present",
+    "description": "Developed scalable, responsive web apps using Next.js, TypeScript, and MUI. Translated Figma designs into pixel-perfect UIs, used MUI state management and custom hooks, and integrated REST APIs with microservices backends. Configured apps for staging, QA, and production. Contributed to micro-frontend architecture and maintained code quality through Git workflows and regular code reviews."
+  },
+  {
+    "id": 2,
     "iconurl": "/images/experience/cft-logo.png",
     "name": "Codes for tomorrow",
     "urlLink": "https://www.codesfortomorrow.com/",
     "title": "React Js Developer",
-    "duration": "Oct 2023 to Present",
+    "duration": "Oct 2023 to Jan 2025",
     "description": "Developed and maintained scalable, responsive web applications using React.js; collaborated with UX/UI designers to implement design mockups for a seamless user experience; implemented state management with Redux; integrated RESTful APIs and third-party libraries; conducted thorough code reviews to ensure quality and adherence to coding standards; utilized Git for version control to enable seamless collaboration and codebase management."
   },
   {
-    "id": 1,
+    "id": 3,
     "iconurl": "/images/experience/eight-logo.png",
     "name": "EightTech Projects",
     "urlLink": "http://eighttechprojects.com/",
@@ -18,7 +27,7 @@
     "description": "Designed and developed responsive websites using HTML, CSS, JavaScript, and React Js. Collaborated with cross-functional teams to understand and implement design requirements. Manage client relationships and collaborated with clients to understand their business needs and design. Optimized website performance and user experience through A/B testing and usability testing. Created visual assets for websites using Adobe Photoshop, Illustrator, Figma, and Canva. Assisted in front-end development tasks, including HTML, CSS, JavaScript, and react coding."
   },
   {
-    "id": 2,
+    "id": 4,
     "iconurl": "/images/experience/earth-logo.png",
     "name": "Earth Technology Pvt. Ltd.",
     "urlLink": "https://www.earthtechnology.co.in/",
@@ -27,7 +36,7 @@
     "description": "Designed and developed responsive websites for clients across various industries, ensuring a seamless user experience and optimal performance. Collaborated closely with content creators to deliver cohesive and engaging web solutions. Translated wireframes and mockups into pixel-perfect, standards-compliant HTML, CSS, and JavaScript code. Utilized design tools such as Adobe Photoshop, illustrator, and Figma to create visually appealing layouts and graphics. Conducted regular website maintenance and updates to ensure content accuracy and functionality."
   },
   {
-    "id": 3,
+    "id": 5,
     "iconurl": "/images/experience/php-logo.png",
     "name": "PHP Training Kolkata",
     "urlLink": "https://www.phptrainingkolkata.in/",
