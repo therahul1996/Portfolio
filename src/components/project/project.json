@@ -1,6 +1,22 @@
 [
   {
-    "id": 148,
+    "id": 23,
+    "iconurl": "/images/projects/axoma.png",
+    "name": "Axoma",
+    "urlLink": "https://www.axoma.ai/",
+    "title": "Axoma AI – GenAI-Powered Document Intelligence Platform",
+    "description": "Built and enhanced the front-end for Axoma AI, a GenAI-powered document intelligence platform allowing users to upload PDFs and ask natural language questions for context-aware answers."
+  },
+  {
+    "id": 22,
+    "iconurl": "/images/projects/mst.png",
+    "name": "MST Blockchain",
+    "urlLink": "https://mstblockchain.com/",
+    "title": "MST – Blockchain-Based Fractional Investment Platform",
+    "description": "Developed a blockchain-based investment platform enabling users to buy fractional ownership in MST network nodes. Integrated Web3 wallet support (MetaMask), real-time node availability, and Razorpay for fiat payments."
+  },
+  {
+    "id": 21,
     "iconurl": "/images/projects/logo.png",
     "name": "Dex App",
     "urlLink": "https://web3-app-nu.vercel.app/",
@@ -8,7 +24,7 @@
     "description": "Developed a DEX app for multi-network token swaps using React and Ant Design for the frontend, with a Node.js and Express backend. Integrated with the 1inch API to handle swap requests and streamline token exchanges, providing users with a seamless and efficient DEX experience."
   },
   {
-    "id": 1,
+    "id": 20,
     "iconurl": "/images/projects/lottri.png",
     "name": "Lottri",
     "urlLink": "https://lottri.com/",
@@ -16,7 +32,7 @@
     "description": "Lottri is a Progressive Web Application (PWA) designed for gaming enthusiasts. It offers a variety of games, including 3 Number, 4 Number Draw, Dus Ka Dum, Rajshree, and Casino. The platform provides a seamless and engaging experience, allowing users to enjoy their favorite games anytime, anywhere. Lottri's PWA nature ensures fast loading times, offline capabilities, and a user-friendly interface across all devices."
   },
   {
-    "id": 2,
+    "id": 19,
     "iconurl": "/images/projects/vottcoin.jpg",
     "name": "Vottcoin",
     "urlLink": "https://t.me/vottcoinbot",
@@ -24,31 +40,31 @@
     "description": "Vottcoin is a dynamic web application designed for engaging users in the voting process. It allows users to vote for their favorite politicians, earn coins as rewards, refer friends to the platform, and purchase campaigns. Additionally, Vottcoin integrates with TON Wallet, enabling users to connect their wallets seamlessly. This project emphasizes user interaction and incentivizes participation in the political process through a gamified approach."
   },
   {
-    "id": 3,
+    "id": 18,
     "iconurl": "/images/projects/usdfc.png",
     "name": "USDFc",
     "urlLink": "https://usdfc.io/",
-    "title": "A dynamic platform for buying and selling of USDFx coins",
+    "title": "USDFc - A dynamic platform for buying and selling of USDFx coins",
     "description": "Experienced in utilizing USDFc, a dynamic platform facilitating the seamless buying and selling of USDFc with various currencies such as INR, AED, and USD. Proficient in navigating the platform's features to execute transactions efficiently. Additionally, adept at exploring partnership opportunities within the platform to generate profitable outcomes."
   },
   {
-    "id": 4,
+    "id": 17,
     "iconurl": "/images/projects/verslan-logo.png",
     "name": "Verslan",
     "urlLink": "https://verslan.com/",
-    "title": "A Blockchain-based trading platform",
+    "title": "Verslan - A Blockchain-based trading platform",
     "description": "Experienced in utilizing Verslan, a Blockchain-based trading platform for Real World Assets (RWA) transactions. Skilled in executing trades efficiently and securely, contributing to operational excellence."
   },
   {
-    "id": 5,
+    "id": 16,
     "iconurl": "/images/projects/starbay.png",
     "name": "Starbay",
     "urlLink": "https://starbay.xyz",
-    "title": "Starbay: Marketplace for Courses, Products, and NFTs",
+    "title": "Starbay - Marketplace for Courses, Products, and NFTs",
     "description": "A versatile platform where users can buy and sell courses, products, and NFTs. It incorporates blockchain technology, allowing users to mint their products securely. As a Tech Lead, I led the frontend development team, ensuring responsive design and seamless integration of blockchain features for secure transactions."
   },
   {
-    "id": 6,
+    "id": 15,
     "iconurl": "/images/projects/barbuddy-logo.png",
     "name": "Bar buddy",
     "urlLink": "https://organizer.ourbarbuddy.com/",
@@ -56,7 +72,7 @@
     "description": "Contributed to Bar-Buddy, an online platform enabling users to conveniently order food and drinks. Enhanced user experience and optimized operations for efficient order processing, showcasing proficiency in leveraging technology to improve customer satisfaction."
   },
   {
-    "id": 7,
+    "id": 14,
     "iconurl": "/images/projects/web3-logo.png",
     "name": "web3 Onboarding",
     "urlLink": "https://web3onboarding.com/",
@@ -64,7 +80,7 @@
     "description": "Led development of Web3 Onboarding Platform on Next.js, streamlining cryptocurrency purchases. Implemented designs, robust login authentication, content integration, Contact Us, and Stripe payment gateway. Demonstrates expertise in Next.js, React, and effective end-to-end solution delivery for enhanced user experience and secure transactions."
   },
   {
-    "id": 8,
+    "id": 13,
     "iconurl": "/images/projects/netflix-logo.png",
     "name": "Netflix clone",
     "urlLink": "https://react-js-clone.netlify.app/",
@@ -72,7 +88,7 @@
     "description": "This is a React-based Netflix clone that empowers users to explore content in a personalized manner. The application features multi-language support (English and Hindi), seamless user authentication, including login, sign-up, and password recovery. Additionally, users can access a vast library of movies, view trailers, and enhance their entertainment experience."
   },
   {
-    "id": 9,
+    "id": 12,
     "iconurl": "/images/projects/logo.png",
     "name": "Feedback App",
     "urlLink": "https://feedback-app-henna-six.vercel.app/",
@@ -80,7 +96,7 @@
     "description": "This is a Feedback application. The app facilitates user-friendly feedback submission, deletion, and offers both grid and list view options for efficient feedback review. Implemented static data presentation via JSON. Leveraged React and React Redux for seamless data management. Successfully deployed the app on Vercel for widespread accessibility."
   },
   {
-    "id": 10,
+    "id": 11,
     "iconurl": "/images/projects/intechhealthcare-logo.png",
     "name": "Intech Healthcare",
     "urlLink": "https://www.intechhealthcare.com/",
@@ -88,7 +104,7 @@
     "description": "Intech Healthcare is a leading pharmaceutical company committed to improving the lives of people around the world. With a focus on research and development, manufacturing, and distribution of high-quality pharmaceutical products, we are dedicated to meeting the needs of patients and healthcare professionals."
   },
   {
-    "id": 11,
+    "id": 10,
     "iconurl": "/images/projects/my-online-tution-logo.png",
     "name": "My Online Tution",
     "urlLink": "https://www.myonlinetution.com/",
@@ -96,7 +112,7 @@
     "description": "My Online Tution provides experienced tutors for all subjects, classes of different boards. Online tution also provides tutors for competitive exams. Choose your convenient time and learn at comfort of your home."
   },
   {
-    "id": 12,
+    "id": 9,
     "iconurl": "/images/projects/trexler-logo.png",
     "name": "Trexler Plaza",
     "urlLink": "https://crm.vvd9.com/html/trexler/",
@@ -104,7 +120,7 @@
     "description": "Trexler Plaza offers a comprehensive truck stop experience, catering to drivers with convenient amenities. Services include acceptance of major fuel credit cards, access to CAT scales, and secure truck parking."
   },
   {
-    "id": 13,
+    "id": 8,
     "iconurl": "/images/projects/eight-logo.png",
     "name": "EightTech Projects",
     "urlLink": "https://eighttechprojects.com/",
@@ -112,7 +128,7 @@
     "description": "EightTech Projects is a cutting-edge company specializing in Web and Mobile App Development. They offer innovative solutions across diverse industries and technology platforms, delivering next-generation solutions that cater to clients' unique needs and preferences."
   },
   {
-    "id": 14,
+    "id": 7,
     "iconurl": "/images/projects/fcg-logo.png",
     "name": "Freedom Consulting Group",
     "urlLink": "https://crm.fcgit.com/html/fcgit2/index.html",
@@ -120,7 +136,7 @@
     "description": "FCG provides expert computer professionals to advise on Management Consulting, System Requirements, Design, Development and Implementation, Conversion and Migration, Network Integration and Connectivity,Production Systems Support, Technical Documentation and Training and Education, We maintain a computerized labor pool containing resumes of our consultants nationwide."
   },
   {
-    "id": 15,
+    "id": 6,
     "iconurl": "/images/projects/eight-logo.png",
     "name": "Human resource management",
     "urlLink": "https://eighttechprojects.com/ethrm/",
@@ -128,7 +144,7 @@
     "description": "Human Resource Management involves overseeing employees, handling leaves, report submissions, task assignments, and summarizing tasks. It ensures efficient workforce management, streamlined operations, and effective communication within the organization."
   },
   {
-    "id": 16,
+    "id": 5,
     "iconurl": "/images/projects/ta-express-logo.png",
     "name": "TA-Express",
     "urlLink": "https://crm.fcgit.com/html/ltp",
@@ -136,7 +152,7 @@
     "description": "The newly constructed TA Express is a franchised location and expands TA's total nationwide network of travel centers to 276 sites, including 45 franchised sites. “In partnership with our franchisee, we are proud to join the Fairfield community and look forward serving both travelers and residents along Interstate 45.”"
   },
   {
-    "id": 17,
+    "id": 4,
     "iconurl": "/images/projects/my-online-tution-logo.png",
     "name": "My Online Tution App",
     "urlLink": "https://play.google.com/store/apps/details?id=com.myonlinetution.app&hl=en_IN&gl=US",
@@ -144,7 +160,7 @@
     "description": "My Online Tution provides experienced tutors for all subjects, classes of different boards. Online tution also provides tutors for competitive exams. Choose your convenient time and learn at comfort of your home."
   },
   {
-    "id": 18,
+    "id": 3,
     "iconurl": "/images/projects/laboratorio-logo.png",
     "name": "Clinica Express",
     "urlLink": "https://clinica.express/",
@@ -152,7 +168,7 @@
     "description": "Clinica Express offers comprehensive Medical Health Services with the added convenience of reserving hospital seats for your family. Experience top-notch healthcare and secure your loved ones' well-being seamlessly. Your one-stop destination for medical care and hospital accommodations."
   },
   {
-    "id": 19,
+    "id": 2,
     "iconurl": "/images/projects/logo.png",
     "name": "Weather App",
     "urlLink": "https://weather-app-gray-psi-53.vercel.app/",
@@ -160,7 +176,7 @@
     "description": "I've developed a weather app using React JS and the OpenWeather API. The app provides real-time weather information, including your current location. Users can search for weather by city name. Additionally, I've implemented a sleek dark and light mode for enhanced user experience."
   },
   {
-    "id": 20,
+    "id": 1,
     "iconurl": "/images/projects/capknow-logo.png",
     "name": "Capknow",
     "urlLink": "https://capknow.com/",

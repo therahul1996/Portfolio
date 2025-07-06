@@ -8,10 +8,9 @@ const SearchBar = () => {
         Hi I'm&nbsp;
         <ReactTyped
           strings={[
-            "React JS Developer",
-            "Front-End Developer",
-            "UI / UX Designer",
-            "Web Designer",
+            "Front End Developer",
+            "UI Developer",
+            "Back End Developer",
           ]}
           typeSpeed={100}
           loop

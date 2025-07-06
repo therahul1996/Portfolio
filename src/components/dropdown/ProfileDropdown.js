@@ -39,7 +39,7 @@ const ProfileDropdown = () => {
             </div>
             <div className="ps-text">
               <h3>Rahul Kumar Sahu</h3>
-              <p>React JS developer</p>
+              <p>Full Stack developer</p>
             </div>
           </div>
         </div>

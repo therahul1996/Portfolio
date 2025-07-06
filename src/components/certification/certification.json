@@ -1,14 +1,14 @@
 [
-    {
-      "id": 1,
-      "iconurl": "/images/certificate/freecodecamp-logo.jpeg",
-      "name": "freeCodeCamp",
-      "urlDir": "https://freecodecamp.org/",
-      "urlLink": "https://freecodecamp.org/certification/rahul0007/front-end-development-libraries",
-      "title": "Front End Development Libraries",
-      "duration": "Issued Aug 2023",
-      "description": "I have successfully completed the freeCodeCamp Front End Development Libraries certification. This comprehensive program equipped me with essential skills in using React, Redux, Sass, and more to create dynamic and interactive web applications. Ready to apply my expertise in real-world projects."
-    },
+  {
+    "id": 1,
+    "iconurl": "/images/certificate/freecodecamp-logo.jpeg",
+    "name": "freeCodeCamp",
+    "urlDir": "https://freecodecamp.org/",
+    "urlLink": "https://freecodecamp.org/certification/rahul0007/front-end-development-libraries",
+    "title": "Front End Development Libraries",
+    "duration": "Issued Aug 2023",
+    "description": "I have successfully completed the freeCodeCamp Front End Development Libraries certification. This comprehensive program equipped me with essential skills in using React, Redux, Sass, and more to create dynamic and interactive web applications. Ready to apply my expertise in real-world projects."
+  },
   {
     "id": 2,
     "iconurl": "/images/certificate/udemy-logo.png",
@@ -34,10 +34,29 @@
     "iconurl": "/images/certificate/freecodecamp-logo.jpeg",
     "name": "freeCodeCamp",
     "urlDir": "https://freecodecamp.org/",
-    "urlLink": "https://freecodecamp.org/certification/rahul0007/responsive-web-design",
+    "urlLink": "images/Rahul-Kumar-Sahu-CV.pdf",
     "title": "Responsive Web Design",
     "duration": "Issued Mar 2020",
     "description": "I've successfully completed freeCodeCamp's Responsive Web Design certificate, demonstrating proficiency in creating adaptable and user-friendly web layouts. This comprehensive program equipped me with essential skills in HTML, CSS, and responsive design principles, empowering me to build dynamic and visually appealing websites."
+  },
+  {
+    "id": 5,
+    "iconurl": "/images/experience/cft-logo.png",
+    "name": "Codes for tomorrow",
+    "urlDir": "https://www.codesfortomorrow.com/",
+    "urlLink": "/images/cot-employee-of-the-month.jpeg",
+    "title": "Employee of the Month",
+    "duration": "Issued July 2024",
+    "description": "Awarded Employee of the Month in recognition of exceptional performance, dedication, and contributions to front-end development projects. Demonstrated leadership, collaboration, and consistent delivery of high-quality user interfaces that enhanced product usability and team success."
+  },
+  {
+    "id": 6,
+    "iconurl": "/images/experience/edge-logo.png",
+    "name": "Edgematics Groups",
+    "urlDir": "https://edgematics.ai/",
+    "urlLink": "/images/edgematics-employee-of-the-quarter.jpeg",
+    "title": "Employee of the Quarter",
+    "duration": "Issued April 2025",
+    "description": "Awarded Employee of the Quarter in recognition of outstanding performance, innovation, and significant contributions to front-end development initiatives. Consistently demonstrated leadership, problem-solving, and delivery of high-impact user experiences that advanced team and business goals."
   }
-  ]
-  
+]

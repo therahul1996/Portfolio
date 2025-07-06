@@ -21,10 +21,9 @@ const MyProfile = () => {
             <p className="designation">
               <ReactTyped
                 strings={[
-                  "React Js Developer",
                   "Front End Developer",
-                  "UI / UX Designer",
-                  "Web Designer",
+                  "UI Developer",
+                  "Back End Developer",
                 ]}
                 typeSpeed={100}
                 loop

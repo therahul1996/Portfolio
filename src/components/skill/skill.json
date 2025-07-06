@@ -1,7 +1,7 @@
 {
   "id": 1,
   "name": "Skills",
-  "description": "Experienced Front End Developer skilled in crafting visually appealing and responsive web interfaces. Proficient in HTML5, CSS3, and JavaScript, with a keen eye for design and user experience. Strong expertise in modern front-end frameworks such as React. Adept at translating design mockups and wireframes into functional, cross-browser compatible websites. Familiar with version control systems like Git and collaborative development using Agile methodologies. Passionate about optimizing website performance and staying updated with the latest industry trends. Committed to delivering engaging and accessible web solutions that enhance user engagement and drive business objectives.",
+  "description": "Senior UI Developer with 6+ years of experience in creating responsive, accessible, and high-performance web interfaces using HTML5, CSS3, JavaScript, TypeScript, React, and Next.js. Skilled in UI/UX design principles, component-based architecture, API integration, and cross-browser compatibility. Proficient with tools like Git, Figma, Postman, and experienced in Agile workflows. Focused on clean code, performance optimization, and delivering user-centric digital experiences.",
   "skillHeading": [
     {
       "id": 1,
@@ -30,8 +30,15 @@
         {
           "id": 6,
           "name": "Typescript"
+        },
+        {
+          "id": 7,
+          "name": "Solidity"
+        },
+        {
+          "id": 8,
+          "name": "SQL"
         }
-        
       ]
     },
     {
@@ -59,6 +66,38 @@
         {
           "id": 2,
           "name": "JSON"
+        },
+        {
+          "id": 3,
+          "name": "GraphQL"
+        },
+        {
+          "id": 4,
+          "name": "WebSockets"
+        },
+        {
+          "id": 5,
+          "name": "Axios"
+        },
+        {
+          "id": 6,
+          "name": "Fetch API"
+        },
+        {
+          "id": 7,
+          "name": "OAuth"
+        },
+        {
+          "id": 8,
+          "name": "JWT (JSON Web Tokens)"
+        },
+        {
+          "id": 9,
+          "name": "API Authentication & Authorization"
+        },
+        {
+          "id": 10,
+          "name": "3rd Party API Integration (e.g., Stripe, Firebase, Twilio)"
         }
       ]
     },
@@ -68,25 +107,36 @@
       "list": [
         {
           "id": 1,
-          "name": "React"
+          "name": "React.js"
         },
         {
           "id": 2,
-          "name": "Angular JS"
+          "name": "Next.js"
         },
         {
           "id": 3,
-          "name": "CodeIgniter"
+          "name": "Angular.js"
         },
         {
           "id": 4,
-          "name": "Ionic"
+          "name": "CodeIgniter"
         },
         {
           "id": 5,
           "name": "Laravel"
+        },
+        {
+          "id": 6,
+          "name": "Ionic"
+        },
+        {
+          "id": 7,
+          "name": "Node.js (Express.js)"
+        },
+        {
+          "id": 8,
+          "name": "NestJS"
         }
-        
       ]
     },
     {
@@ -103,9 +153,8 @@
         },
         {
           "id": 3,
-          "name": "Material UI"
+          "name": "Material UI (MUI)"
         }
-        
       ]
     },
     {
@@ -135,8 +184,55 @@
         {
           "id": 6,
           "name": "Basic Knowledge of Back-end Technologies (Node.js, Express)"
+        },
+        {
+          "id": 7,
+          "name": "Component-Based Architecture"
+        },
+        {
+          "id": 8,
+          "name": "State Management (useState, useReducer, Context API)"
+        },
+        {
+          "id": 9,
+          "name": "Server-Side Rendering (SSR) with Next.js"
+        },
+        {
+          "id": 10,
+          "name": "Static Site Generation (SSG)"
+        },
+        {
+          "id": 11,
+          "name": "Client-Side Rendering (CSR)"
+        },
+        {
+          "id": 12,
+          "name": "Routing with Next.js"
+        },
+        {
+          "id": 13,
+          "name": "API Routes in Next.js"
+        },
+        {
+          "id": 14,
+          "name": "Authentication & Authorization"
+        },
+        {
+          "id": 15,
+          "name": "Form Handling and Validation"
+        },
+        {
+          "id": 16,
+          "name": "Code Splitting and Lazy Loading"
+        },
+        {
+          "id": 17,
+          "name": "SEO Optimization in Next.js"
+        },
+        {
+          "id": 18,
+          "name": "Working with Third-party Libraries"
         }
-        
       ]
     },
     {
@@ -170,8 +266,11 @@
         {
           "id": 7,
           "name": "Canva"
+        },
+        {
+          "id": 8,
+          "name": "Docker"
         }
-        
       ]
     },
     {
@@ -186,7 +285,6 @@
           "id": 2,
           "name": "Scrum"
         }
-        
       ]
     },
     {
@@ -200,8 +298,15 @@
         {
           "id": 2,
           "name": "MySQL"
+        },
+        {
+          "id": 3,
+          "name": "MongoDB"
+        },
+        {
+          "id": 4,
+          "name": "PostgreSQL"
         }
-        
       ]
     }
   ]
