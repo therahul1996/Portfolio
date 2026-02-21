@@ -20,15 +20,52 @@ const Home = () => {
     "contact",
   ];
 
+  const handleVoiceSearch = () => {
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (!SpeechRecognition) {
+      alert("Browser does not support Speech Recognition");
+      return;
+    }
+
+    const recognition = new SpeechRecognition();
+    recognition.lang = "en-US";
+    recognition.start();
+
+    recognition.onresult = (event) => {
+      const transcript = event.results[0][0].transcript;
+      setSearchQuery(transcript);
+      setTimeout(() => {
+        performSearch(transcript);
+      }, 500);
+    };
+
+    recognition.onerror = (event) => {
+      console.error("Speech recognition error", event.error);
+      setError({ message: "Speech recognition error: " + event.error });
+    };
+  };
+
+  const performSearch = (queryText) => {
+    const query = queryText.toLowerCase().trim();
+    if (query === "") {
+      setError({ message: "Please write something" });
+      return;
+    }
+
+    const matchedPage = pages.find(page => page.toLowerCase() === query) ||
+      pages.find(page => page.toLowerCase().startsWith(query)) ||
+      pages.find(page => page.toLowerCase().includes(query));
+
+    if (matchedPage) {
+      navigate(`/${matchedPage}`);
+    } else {
+      window.location.href = `https://www.google.com/search?q=${queryText}`;
+    }
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (searchQuery === "") {
-      setError({ message: "Please write something" });
-    } else if (pages.includes(searchQuery.toLocaleLowerCase())) {
-      navigate(searchQuery);
-    } else {
-      window.location.href = `https://www.google.com/search?q=${searchQuery}`;
-    }
+    performSearch(searchQuery);
   };
   return (
     <>
@@ -49,6 +86,7 @@ const Home = () => {
             <SearchBarIndex
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
+              onVoiceSearch={handleVoiceSearch}
               error={error.message}
             />
 

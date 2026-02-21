@@ -1,11 +1,13 @@
-.content-box{
+.content-box {
     margin-bottom: 45px;
 }
-.content-head{
+
+.content-head {
     display: flex;
     align-items: center;
 }
-.ch-icon{
+
+.ch-icon {
     width: 36px;
     height: 36px;
     background-color: #eeeeee;
@@ -15,13 +17,16 @@
     justify-content: center;
     margin-right: 15px;
 }
-.ch-icon img{
+
+.ch-icon img {
     width: 20px;
 }
-.ch-text{
+
+.ch-text {
     width: calc(100% - 51px);
 }
-.ch-text label{
+
+.ch-text label {
     color: #202124;
     font-size: 14px;
     display: block;
@@ -29,7 +34,8 @@
     white-space: nowrap;
     font-weight: 500;
 }
-.ch-text span{
+
+.ch-text span {
     color: #4d5156;
     font-style: normal;
     overflow: hidden;
@@ -37,7 +43,8 @@
     font-size: 12px;
     line-height: 18px;
 }
-.main-head{
+
+.main-head {
     font-size: 20px;
     font-weight: 500;
     margin-top: 18px;
@@ -48,14 +55,42 @@
     cursor: pointer;
     display: block;
 }
-.main-head:hover, .main-head:focus {
+
+.main-head:hover,
+.main-head:focus {
     color: #681da8;
 }
-.desc{
+
+.desc {
     margin: 0;
     font-size: 14px;
     color: #414141;
 }
-.desc span{
+
+.desc span {
     font-weight: 600;
+}
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 15px;
+}
+
+.tech-tag {
+    background-color: #f1f3f4;
+    color: #3c4043;
+    font-size: 11px;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-weight: 500;
+    border: 1px solid #dfe1e5;
+    transition: all 0.2s ease;
+}
+
+.tech-tag:hover {
+    background-color: #e8eaed;
+    border-color: #dadce0;
+    transform: translateY(-1px);
 }

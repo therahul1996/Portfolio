@@ -5,14 +5,7 @@ import ProjectBox from "../content/ProjectBox";
 const ProjectList = () => {
   return (
     <>
-      {/* {
-  //   "id": 23,
-  //   "iconurl": "/images/projects/axoma.png",
-  //   "name": "Axoma",
-  //   "urlLink": "https://www.axoma.ai/",
-  //   "title": "Axoma AI – GenAI-Powered Document Intelligence Platform",
-  //   "description": "Built and enhanced the front-end for Axoma AI, a GenAI-powered document intelligence platform allowing users to upload PDFs and ask natural language questions for context-aware answers."
-  // }, */}
+      {/* Tech: React.js, Tailwind, AWS Cognito, PWA, GraphQL, Node.js.  */}
       <p className="length-result">
         We Found {projectData.length} results for Projects
       </p>
@@ -25,6 +18,7 @@ const ProjectList = () => {
             urlLink={project.urlLink}
             title={project.title}
             description={project.description}
+            techStack={project.techStack}
           />
         );
       })}

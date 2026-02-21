@@ -1,11 +1,33 @@
 [
   {
+    "id": 23,
+    "iconurl": "/images/projects/axoma.png",
+    "name": "Axoma",
+    "urlLink": "https://www.axoma.ai/",
+    "title": "Axoma AI – Agentic AI platform",
+    "description": "Developed Axoma.ai — an enterprise-grade Agentic AI orchestration platform with a unified LLM gateway, secure AI workflows, and automated business processes to accelerate AI adoption, improve decision-making, and boost operational efficiency.",
+    "techStack": [
+      "Next.js",
+      "Material UI",
+      "TypeScript",
+      "Redux Toolkit",
+      "mono repo"
+    ]
+  },
+  {
     "id": 22,
     "iconurl": "/images/projects/mst.png",
     "name": "MST Blockchain",
     "urlLink": "https://mstblockchain.com/",
     "title": "MST – Blockchain-Based Fractional Investment Platform",
-    "description": "Developed a blockchain-based investment platform enabling users to buy fractional ownership in MST network nodes. Integrated Web3 wallet support (MetaMask), real-time node availability, and Razorpay for fiat payments."
+    "description": "Developed a blockchain-based investment platform enabling users to buy fractional ownership in MST network nodes. Integrated Web3 wallet support (MetaMask), real-time node availability, and Razorpay for fiat payments.",
+    "techStack": [
+      "React.js",
+      "Web3",
+      "MetaMask",
+      "Razorpay",
+      "Node.js"
+    ]
   },
   {
     "id": 21,
@@ -13,7 +35,14 @@
     "name": "Dex App",
     "urlLink": "https://web3-app-nu.vercel.app/",
     "title": "Dex App - A Multi-Network Token Swaps",
-    "description": "Developed a DEX app for multi-network token swaps using React and Ant Design for the frontend, with a Node.js and Express backend. Integrated with the 1inch API to handle swap requests and streamline token exchanges, providing users with a seamless and efficient DEX experience."
+    "description": "Developed a DEX app for multi-network token swaps using React and Ant Design for the frontend, with a Node.js and Express backend. Integrated with the 1inch API to handle swap requests and streamline token exchanges, providing users with a seamless and efficient DEX experience.",
+    "techStack": [
+      "React",
+      "Ant Design",
+      "Node.js",
+      "Express",
+      "1inch API"
+    ]
   },
   {
     "id": 20,
@@ -21,7 +50,13 @@
     "name": "Lottri",
     "urlLink": "https://lottri.com/",
     "title": "Lottri - A Multi-Game PWA",
-    "description": "Lottri is a Progressive Web Application (PWA) designed for gaming enthusiasts. It offers a variety of games, including 3 Number, 4 Number Draw, Dus Ka Dum, Rajshree, and Casino. The platform provides a seamless and engaging experience, allowing users to enjoy their favorite games anytime, anywhere. Lottri's PWA nature ensures fast loading times, offline capabilities, and a user-friendly interface across all devices."
+    "description": "Lottri is a Progressive Web Application (PWA) designed for gaming enthusiasts. It offers a variety of games, including 3 Number, 4 Number Draw, Dus Ka Dum, Rajshree, and Casino. The platform provides a seamless and engaging experience, allowing users to enjoy their favorite games anytime, anywhere. Lottri's PWA nature ensures fast loading times, offline capabilities, and a user-friendly interface across all devices.",
+    "techStack": [
+      "React.js",
+      "PWA",
+      "Node.js",
+      "Tailwind"
+    ]
   },
   {
     "id": 19,
@@ -69,7 +104,13 @@
     "name": "web3 Onboarding",
     "urlLink": "https://web3onboarding.com/",
     "title": "A cryptocurrency purchases platform",
-    "description": "Led development of Web3 Onboarding Platform on Next.js, streamlining cryptocurrency purchases. Implemented designs, robust login authentication, content integration, Contact Us, and Stripe payment gateway. Demonstrates expertise in Next.js, React, and effective end-to-end solution delivery for enhanced user experience and secure transactions."
+    "description": "Led development of Web3 Onboarding Platform on Next.js, streamlining cryptocurrency purchases. Implemented designs, robust login authentication, content integration, Contact Us, and Stripe payment gateway. Demonstrates expertise in Next.js, React, and effective end-to-end solution delivery for enhanced user experience and secure transactions.",
+    "techStack": [
+      "Next.js",
+      "Stripe",
+      "React",
+      "Node.js"
+    ]
   },
   {
     "id": 13,

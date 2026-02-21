@@ -20,11 +20,7 @@ const MyProfile = () => {
             <h3 className="name">{profileData.name}</h3>
             <p className="designation">
               <ReactTyped
-                strings={[
-                  "Front End Developer",
-                  "UI Developer",
-                  "Back End Developer",
-                ]}
+                strings={["Front End Developer", "Back End Developer"]}
                 typeSpeed={100}
                 loop
               />
@@ -57,9 +53,9 @@ const MyProfile = () => {
         <p className="address">
           <b>Address:</b>&nbsp;{profileData.address}
         </p>
-        <p className="available">
+        {/* <p className="available">
           <b>Available:</b>&nbsp;{profileData.available}
-        </p>
+        </p> */}
         <p className="email">
           <b>Email:</b>&nbsp;{profileData.email}
         </p>
