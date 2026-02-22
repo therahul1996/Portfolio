@@ -11,6 +11,7 @@ import Summary from "../../components/summary/Summary";
 import Pagination from "../../components/pagination/Pagination";
 import Seo from "../../components/seo/Seo";
 import CertificationList from "../../components/certification/CertificationList";
+import AchievementList from "../../components/achievement/AchievementList";
 
 const Profile = () => {
   return (
@@ -31,6 +32,7 @@ const Profile = () => {
               <SkillList />
               <ProjectList />
               <CertificationList />
+              <AchievementList />
               <Pagination />
             </div>
             <div className="profile-right-sec">

@@ -22,7 +22,6 @@
         "iconurl": "/images/pages/skill.svg",
         "title": "Skill",
         "urlLink": "/skill"
-        
     },
     {
         "id": 5,
@@ -38,6 +37,12 @@
     },
     {
         "id": 7,
+        "iconurl": "/images/pages/achievement.svg",
+        "title": "Achievements",
+        "urlLink": "/achievement"
+    },
+    {
+        "id": 8,
         "iconurl": "/images/pages/contact.svg",
         "title": "Contact",
         "urlLink": "/contact"

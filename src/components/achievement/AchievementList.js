@@ -1,12 +1,12 @@
 import React from 'react'
 import './style.css'
-import certificationData from './certification.json'
+import achievementData from './achievement.json'
 import EducationBox from '../content/EducationBox'
-const CertificationList = () => {
+const AchievementList = () => {
   return (
     <>
-      <p className='length-result'>We Found {certificationData.length} results for Certificates</p>
-      {certificationData.toReversed().map((certificate, id) => {
+      <p className='length-result'>We Found {achievementData.length} results for Achievement</p>
+      {achievementData.toReversed().map((certificate, id) => {
         return (
           <EducationBox
             key={id}
@@ -24,4 +24,4 @@ const CertificationList = () => {
   )
 }
 
-export default CertificationList
+export default AchievementList
