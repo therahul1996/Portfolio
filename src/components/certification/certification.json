@@ -78,5 +78,15 @@
     "title": "Prompt Design in Vertex AI",
     "duration": "Issued Feb 2026",
     "description": "Learned effective prompt engineering techniques using Google Cloud Vertex AI. This specialized badge focused on crafting, testing, and optimizing prompts for large language models to achieve more accurate and context-aware results."
+  },
+  {
+    "id": 9,
+    "iconurl": "/images/certificate/micro1-logo.png",
+    "name": "micro1",
+    "urlDir": "https://micro1.ai",
+    "urlLink": "https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1777222353-bed61734-7052-4685-a0aa-3996366ae71f.jpg",
+    "title": "Senior Frontend Developer",
+    "duration": "Issued Apr 2026",
+    "description": "Successfully passed micro1's rigorous AI Interview process, demonstrating advanced proficiency and problem-solving skills, and was officially certified as a Senior Frontend Developer."
   }
 ]

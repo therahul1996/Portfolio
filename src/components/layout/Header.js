@@ -31,7 +31,7 @@ const Header = () => {
         </ul>
         <ul className="flex items-center content-end m-0">
           <li className="mr-10px">
-            <Link to="/images/Rahul-Kumar-Sahu-CV.pdf" target="_blank">
+            <Link to="/images/Rahul-Kumar-Sahu.pdf" target="_blank">
               Download CV
             </Link>
           </li>
