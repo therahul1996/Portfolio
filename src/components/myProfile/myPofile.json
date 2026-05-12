@@ -8,7 +8,7 @@
   "phone": "+91 9097737511",
   "address": "Bagodar, Jharkhand - 825322, India",
   "available": "Mon to Fri",
-  "about": "Hi, I'm Rahul Kumar Sahu — a Senior UI & Backend Developer with 6+ years of experience building fast, user-friendly, and scalable web applications. I specialize in front-end development with React and Next.js, and backend development with Node.js and Express. Passionate about clean code, great UX, and solving real-world problems through full-stack solutions.",
+  "about": "Hi, I'm Rahul Kumar Sahu — a Full Stack Developer with 6+ years of experience building fast, user-friendly, and scalable web applications. I specialize in front-end development with React and Next.js, and backend development with Node.js and Express. Passionate about clean code, great UX, and solving real-world problems through full-stack solutions.",
   "social": [
     {
       "id": 1,
@@ -27,12 +27,6 @@
       "iconurl": "/images/social/instagram.svg",
       "title": "Instagram",
       "urlLink": "https://www.instagram.com/the_rahulshah/?hl=en"
-    },
-    {
-      "id": 4,
-      "iconurl": "/images/social/figma.svg",
-      "title": "Figma",
-      "urlLink": "https://www.figma.com/files/user/1070032877618790612?fuid=1070032877618790612"
     }
   ]
 }
