@@ -92,10 +92,10 @@ const Home = () => {
 
             <div className="search-btn-group">
               <button type="submit" className="btn light-btn">
-                Google Resume
+                Search Resume
               </button>
               <Link to={"/contact"} className="btn light-btn">
-                I am Feeling Lucky
+                Contact Me
               </Link>
             </div>
           </form>

@@ -48,7 +48,7 @@ const ContactUs = () => {
                 user_message: message,
             };
 
-            await emailjs.send('service_j7nu7i5', 'template_drmtnmr', templateParams, '-nixmAp-KPCmUSxIc');
+            await emailjs.send('service_j7nu7i5', 'template_drmtnmr', templateParams, 'pTDLOicrRGVh-lP_A');
             setName('');
             setEmail('');
             setSubject('');
