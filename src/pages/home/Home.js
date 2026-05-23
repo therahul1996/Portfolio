@@ -79,7 +79,7 @@ const Home = () => {
         <div className="container">
           <form onSubmit={handleSubmit}>
             <img
-              src="/images/google-logo.png"
+              src="/images/google-logo-my.png"
               alt="google logo"
               className="google-logo"
             />

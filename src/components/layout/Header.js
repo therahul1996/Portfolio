@@ -19,7 +19,7 @@ const Header = () => {
           <li className="mr-45px">
             <Link to="/">
               <img
-                src="/images/google-logo.png"
+                src="/images/google-logo-my.png"
                 alt="google logo"
                 className="nav-logo"
               />
