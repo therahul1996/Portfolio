@@ -27,12 +27,12 @@ const Profile = () => {
           <div className="flex flex-sm-collumn-reverse">
             <div className="left-sec">
               <Summary />
-              <EducationList />
               <ExperienceList />
               <SkillList />
               <ProjectList />
               <CertificationList />
               <AchievementList />
+              <EducationList />
               <Pagination />
             </div>
             <div className="profile-right-sec">
