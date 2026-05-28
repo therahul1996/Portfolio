@@ -88,5 +88,35 @@
     "title": "Certified Senior Frontend Developer",
     "duration": "Issued Apr 2026",
     "description": "Successfully passed micro1's rigorous AI Interview process, demonstrating advanced proficiency and problem-solving skills, and was officially certified as a Senior Frontend Developer."
+  },
+  {
+    "id": 10,
+    "iconurl": "/images/certificate/anthropic-logo.png",
+    "name": "Anthropic",
+    "urlDir": "https://learn.anthropic.com/",
+    "urlLink": "https://verify.skilljar.com/c/anj7i2jr8taq",
+    "title": "Introduction to Model Context Protocol",
+    "duration": "Issued May 2026",
+    "description": "This certificate verifies the completion of Introduction to Model Context Protocol."
+  },
+  {
+    "id": 11,
+    "iconurl": "/images/certificate/anthropic-logo.png",
+    "name": "Anthropic",
+    "urlDir": "https://learn.anthropic.com/",
+    "urlLink": "https://verify.skilljar.com/c/e9zc5rghm4aj",
+    "title": "Claude Code in Action",
+    "duration": "Issued May 2026",
+    "description": "This certificate verifies the completion of Claude Code in Action."
+  },
+  {
+    "id": 12,
+    "iconurl": "/images/certificate/anthropic-logo.png",
+    "name": "Anthropic",
+    "urlDir": "https://learn.anthropic.com/",
+    "urlLink": "https://verify.skilljar.com/c/5fc35vxrh7rd",
+    "title": "Building with the Claude API",
+    "duration": "Issued May 2026",
+    "description": "This certificate verifies the completion of Building with the Claude API."
   }
 ]
